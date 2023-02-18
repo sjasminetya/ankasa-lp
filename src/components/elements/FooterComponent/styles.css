@@ -1,0 +1,66 @@
+footer {
+  height: 313px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+footer .container-footer {
+  height: 100%;
+}
+
+footer .brand-name h5 {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  color: var(--vt-c-indigo);
+  padding-left: 15px;
+}
+
+footer .brand-name p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 221.43%;
+  color: var(--vt-c-grey-10);
+  padding-top: 30px;
+}
+
+footer .copyright {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--vt-c-grey-10);
+}
+
+footer ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 30px;
+}
+
+footer ul li {
+  padding-bottom: 20px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: var(--vt-c-grey-10);
+}
+
+footer .apple-store {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+footer .social-media {
+  margin-top: 30px;
+}
+
+footer .location p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: var(--vt-c-grey-10);
+  margin-bottom: 0;
+  padding-left: 10px;
+}
