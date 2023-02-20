@@ -1,9 +1,9 @@
 <template>
   <div class="parent">
     <NavbarComponent />
-    <section class="jumbotron position-relative">
+    <section class="jumbotron position-relative container-fluid">
       <div class="row">
-        <div class="col-7">
+        <div class="col-7 p-0">
           <div style="margin-left: 180px">
             <h1>Find your <span class="flight">Flight</span></h1>
             <p>and explore the world with us</p>
@@ -16,7 +16,7 @@
             />
           </div>
         </div>
-        <div class="col-5 d-flex flex-column justify-content-between">
+        <div class="col-5 p-0 d-flex flex-column justify-content-between">
           <div class="gradient-image-right align-self-end" style="float: right">
             <img
               class="img-jumbotron-right"

@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <div class="container container-footer">
+    <div class="container container-footer pb-5">
       <div class="row" style="height: 100%">
         <div class="col-3 d-flex flex-column justify-content-between">
           <div class="brand-name">
