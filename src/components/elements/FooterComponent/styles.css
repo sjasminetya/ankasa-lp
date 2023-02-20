@@ -1,9 +1,10 @@
 footer {
   height: 313px;
-  position: absolute;
+  /* position: absolute;
   bottom: 0;
   left: 0;
-  right: 0;
+  right: 0; */
+  margin-top: 113px;
 }
 
 footer .container-footer {
