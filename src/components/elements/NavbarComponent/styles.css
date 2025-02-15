@@ -56,3 +56,22 @@
   line-height: 24px;
   color: var(--vt-c-white);
 }
+
+@media screen and (max-width: 990px) {
+  .navbar .btn-sign-up {
+    width: 100%;
+  }
+
+  .navbar form {
+    margin: 20px 0px;
+  }
+
+  .navbar .search {
+    width: 100%;
+    margin: 0 !important;
+  }
+
+  .navbar .navbar-nav {
+    gap: 20px !important;
+  }
+}

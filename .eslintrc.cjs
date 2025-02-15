@@ -19,5 +19,6 @@ module.exports = {
         disallowVue3BuiltInComponents: false,
       },
     ],
+    "prettier/prettier": "none"
   },
 };
